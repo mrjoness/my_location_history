@@ -9,4 +9,4 @@ Download all google maps history and unzip.
 https://www.howtogeek.com/725241/how-to-download-your-google-maps-data/
 
 Change this line to your match the locoation of your data
-'''path_to_semantic_history = './Takeout/Location_History/Semantic_Location_History' '''
+path_to_semantic_history = './Takeout/Location_History/Semantic_Location_History'
